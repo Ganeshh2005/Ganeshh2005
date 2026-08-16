@@ -1,21 +1,213 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ganesh Lagad<br><br>🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎨 UI/UX Designer<br><br>📍 Mumbai, India<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 E&TC Engineering Student at **Thakur College of Engineering & Technology**<br>* 💼 Former **Software Development Engineer @ YugaYatra Retail**<br>* 🌐 Experienced in **Web Development, AI/ML, and Data Visualization**<br>* 🧠 Passionate about building **real-world scalable applications**<br>* 🔐 Exploring **Cybersecurity & Digital Security**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Languages & Frameworks<br><br>* ⚛️ React.js<br>* 🐍 Python<br>* 🎨 Tailwind CSS<br>* ☕ Java<br>* 💻 C++<br>* 🗄️ DBMS<br><br>### 🌐 Web & App Development<br><br>* Frontend: HTML, CSS, React<br>* Backend: Node.js<br>* Database: MongoDB<br>* API Integration<br><br>### 🤖 AI / ML<br><br>* Machine Learning (Scikit-learn)<br>* Data Analysis & Visualization<br>* Predictive Modeling<br><br>### 🎨 Design & Tools<br><br>* Figma | Canva | Blender<br>* Tableau<br>* Git & GitHub<br>* Postman | VS Code<br><br>---<br><br>## 💼 Experience<br><br>### 💻 Software Development Engineer — YugaYatra Retail<br><br>📅 June 2025 – Aug 2025<br><br>* Built responsive UI using React.js & Tailwind CSS<br>* Integrated APIs and improved performance<br>* Optimized cross-browser compatibility<br><br>### 🌐 Web Developer Intern — Blue Origin<br><br>📅 May 2024 – June 2024<br><br>* Worked on real-world web apps using React & Node.js<br>* Contributed to UI/UX, debugging, and testing<br><br>### 🧑‍💻 Student Intern — Static.Int Educare<br><br>📅 June 2024 – July 2024<br><br>* Developed web & data-driven projects<br>* Worked with Python, MongoDB & GitHub<br><br>---<br><br>## 🚀 Projects<br><br>### 🧠 Lung Cancer Prediction<br><br>* Built ML model using Python & Scikit-learn<br>* Predicts cancer risk from medical data<br><br>### 🌿 ZevZone – Mental Wellness App<br><br>* 7 features including chatbot, mood tracker & meditation<br>* Full-stack platform deployed on Vercel<br><br>### 🤖 Veda AI<br><br>* Custom AI assistant with memory + automation<br>* GPT-like interaction system<br><br>### 🌐 YugaYatra Website<br><br>* Designed and developed official company website<br><br>---<br><br>## 🏆 Achievements<br><br>* 🥇 Winner – UI/UX Competition (Technofest 2025)<br>* 🥈 Runner-Up – Technical Paper Presentation<br>* 📄 Published **3 Research Papers**<br><br>---<br><br>## 📚 Publications<br><br>* Quantum Cryptography (BB84 Protocol & Post-Quantum Security)<br>* AI in Content Creation & Automation<br><br>---<br><br>## 📜 Certifications<br><br>* ☁️ Oracle Cloud AI Foundations Associate<br>* ☁️ Microsoft Azure Fundamentals<br>* ☁️ AWS Solutions Architecture (Forage)<br>* 📊 Databricks Fundamentals<br>* 🤖 Generative AI Mastermind<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshh2005\&show_icons=true\&theme=radical)<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Advanced Machine Learning<br>* System Design<br>* Cloud Architecture (AWS + Azure)<br>* Cybersecurity<br><br>---<br><br>## 📫 Connect With Me<br><br>* 💼 LinkedIn: https://www.linkedin.com/in/ganesh-lagad-9906a9291/<br>* 📧 Email: [ganeshlagad2005@gmail.com](mailto:ganeshlagad2005@gmail.com)<br><br>---<br><br>## ⚡ Fun Fact<br><br>I don’t just build projects — I build **solutions that people can actually use** 🚀<br>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Ganesh%20Lagad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ganesh-lagad/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshlagad2005@gmail.com) 
+<a href="https://linkedin.com/in/ganesh-lagad-9906a9291">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+scalable+apps+%F0%9F%9A%80;Exploring+AI%2FML+%26+Data+Visualization+%F0%9F%A4%96;Diving+into+Cybersecurity+%F0%9F%94%90;Turning+ideas+into+shipped+products+%E2%9C%A8&font=Fira+Code&center=true&width=550&height=45&duration=3000&pause=800&color=2575FC&vCenter=true&size=22" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ganeshh2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ganeshh2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshh2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ganeshh2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/📍-Mumbai,%20India-6a11cb?style=for-the-badge&labelColor=2575fc" />
+<a href="mailto:ganeshlagad2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ganesh-lagad-9906a9291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ganeshh2005&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🚀 About Me
+
+- 🎓 E&TC Engineering student at **Thakur College of Engineering & Technology**
+- 💼 Former **Software Development Engineer @ YugaYatra Retail**
+- 🌐 Building across **Web Dev, AI/ML & Data Visualization**
+- 🔐 Currently going deeper into **Cybersecurity & System Design**
+- ⚡ *I don't just build projects — I build solutions people actually use.*
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,tailwind,nodejs,mongodb&theme=dark" />
+
+<br/><br/>
+
+**AI / ML / Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="28"/>
+
+<br/><br/>
+
+**Cloud, Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,figma,postman,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📦 Full badge list (click to expand)</b></summary>
+<br/>
+
+![C](https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-404d59?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-black?style=flat-square&logo=opencv&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Netlify](https://img.shields.io/badge/netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=WordPress&logoColor=white)
+
+</details>
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="30%"><b>Software Development Engineer</b><br/><sub>YugaYatra Retail</sub></td>
+<td width="20%"><sub>Jun 2025 – Aug 2025</sub></td>
+<td>Built responsive UI with React.js & Tailwind CSS, integrated APIs, optimized cross-browser performance.</td>
+</tr>
+<tr>
+<td><b>Web Developer Intern</b><br/><sub>Blue Origin</sub></td>
+<td><sub>May 2024 – Jun 2024</sub></td>
+<td>Worked on real-world web apps using React & Node.js; contributed to UI/UX, debugging, and testing.</td>
+</tr>
+<tr>
+<td><b>Student Intern</b><br/><sub>Static.Int Educare</sub></td>
+<td><sub>Jun 2024 – Jul 2024</sub></td>
+<td>Developed web & data-driven projects using Python, MongoDB & GitHub.</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 Lung Cancer Prediction**
+<br/>
+ML model built with Python & Scikit-learn to predict cancer risk from medical data.
+
+</td>
+<td width="50%">
+
+**🌿 ZevZone — Mental Wellness App**
+<br/>
+Full-stack platform with 7 features incl. chatbot, mood tracker & meditation. Deployed on Vercel.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 Veda AI**
+<br/>
+Custom AI assistant with memory + automation — a GPT-like interaction system.
+
+</td>
+<td width="50%">
+
+**🌐 YugaYatra Website**
+<br/>
+Designed and developed the official company website end-to-end.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements & Publications
+
+- 🥇 Winner — UI/UX Competition, Technofest 2025
+- 🥈 Runner-Up — Technical Paper Presentation
+- 📄 3 Research Papers published, including *Quantum Cryptography (BB84 Protocol & Post-Quantum Security)* and *AI in Content Creation & Automation*
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
+
+- ☁️ Oracle Cloud AI Foundations Associate
+- ☁️ Microsoft Azure Fundamentals
+- ☁️ AWS Solutions Architecture (Forage)
+- 📊 Databricks Fundamentals
+- 🤖 Generative AI Mastermind
+
+</details>
+
+<br/>
+
+## 🌱 Currently Learning
+
+<img src="https://img.shields.io/badge/Advanced_ML-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-2575fc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_(AWS+%2B+Azure)-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity-2575fc?style=for-the-badge" />
+
+<br/><br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ganeshh2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshh2005&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshh2005&theme=radical&hide_border=true" />
+
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ganeshh2005&theme=radical&no-frame=true&margin-w=4&row=1" />
+</div>
+
+<br/>
+
+<!--
+  🐍 Animated contribution snake — GitHub renders this automatically once you add
+  the "generate snake" GitHub Action to this repo (search "platane/snk" on GitHub
+  Marketplace). Once set up, it outputs an SVG here that "eats" your contribution
+  graph. Swap the src below for your generated one:
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ganeshh2005/Ganeshh2005/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ganesh-lagad-9906a9291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ganeshlagad2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=Ganeshh2005&icon=0&color=0" />
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+
+</div>
